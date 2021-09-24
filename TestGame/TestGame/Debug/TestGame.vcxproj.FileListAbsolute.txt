@@ -1,1 +1,2 @@
 D:\Docs\Năm 3\Codes\TestGame\TestGame\Debug\TestGame.vcxproj.CopyComplete
+D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\TestGame\TestGame\Debug\TestGame.vcxproj.CopyComplete
