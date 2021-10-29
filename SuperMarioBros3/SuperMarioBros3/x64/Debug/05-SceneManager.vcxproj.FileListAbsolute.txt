@@ -1,0 +1,1 @@
+D:\Docs\Năm 3\Nhập môn phát triển game\gamedev-intro-tutorials-dx10\05-SceneManager\x64\Debug\05-SceneManager.vcxproj.CopyComplete

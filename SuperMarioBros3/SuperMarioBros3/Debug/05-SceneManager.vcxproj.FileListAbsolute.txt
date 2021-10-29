@@ -1,0 +1,4 @@
+D:\Docs\Năm 3\Nhập môn phát triển game\gamedev-intro-tutorials-dx10\05-SceneManager\Debug\05-SceneManager.vcxproj.CopyComplete
+C:\Users\Admin\Desktop\New folder\test\05-SceneManager\Debug\05-SceneManager.vcxproj.CopyComplete
+C:\Users\Admin\Desktop\SuperMarioBros3\SuperMarioBros3\Debug\05-SceneManager.vcxproj.CopyComplete
+D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\Debug\05-SceneManager.vcxproj.CopyComplete
