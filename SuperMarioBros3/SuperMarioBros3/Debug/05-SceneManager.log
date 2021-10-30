@@ -1,26 +1,6 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (05-SceneManager.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Animation.cpp
-  Animations.cpp
-  Brick.cpp
-  Coin.cpp
-  Collision.cpp
-  debug.cpp
-  Game.cpp
-  GameObject.cpp
-  Goomba.cpp
-  main.cpp
-  Mario.cpp
-  VerticalPlatform.cpp
-  Platform.cpp
   PlayScene.cpp
-D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
-D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(290,20): warning C4018: '<': signed/unsigned mismatch
-D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(315,20): warning C4018: '<': signed/unsigned mismatch
-  Portal.cpp
-  SampleKeyEventHandler.cpp
-  Sprite.cpp
-  Sprites.cpp
-  Textures.cpp
-  Utils.cpp
-  Generating Code...
-  05-SceneManager.vcxproj -> D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\Debug\SuperMarioBros3.exe
+C:\Users\Admin\Desktop\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(294,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(319,20): warning C4018: '<': signed/unsigned mismatch
+  05-SceneManager.vcxproj -> C:\Users\Admin\Desktop\SuperMarioBros3\Debug\SuperMarioBros3.exe
