@@ -10,11 +10,12 @@
   Goomba.cpp
   main.cpp
   Mario.cpp
+  VerticalPlatform.cpp
   Platform.cpp
   PlayScene.cpp
-D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
-D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
-D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(290,20): warning C4018: '<': signed/unsigned mismatch
+D:\Docs\Năm 3\Nhập môn phát triển game\Github\Bowsette\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(315,20): warning C4018: '<': signed/unsigned mismatch
   Portal.cpp
   SampleKeyEventHandler.cpp
   Sprite.cpp
