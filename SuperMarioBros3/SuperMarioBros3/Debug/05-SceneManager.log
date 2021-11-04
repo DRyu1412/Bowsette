@@ -1,5 +1,16 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (05-SceneManager.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Goomba.cpp
-  Koopas.cpp
+  Game.cpp
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\Mario.h(148,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  main.cpp
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\Mario.h(148,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  Mario.cpp
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\Mario.h(148,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  PlayScene.cpp
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\Mario.h(148,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(348,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\PlayScene.cpp(373,20): warning C4018: '<': signed/unsigned mismatch
+  SampleKeyEventHandler.cpp
+C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\Mario.h(148,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
   Generating Code...
   05-SceneManager.vcxproj -> C:\Users\Admin\Desktop\Test\SuperMarioBros3\Debug\SuperMarioBros3.exe
