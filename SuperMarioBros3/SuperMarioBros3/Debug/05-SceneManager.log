@@ -1,4 +1,3 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (05-SceneManager.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Mario.cpp
-C:\Users\Admin\Desktop\Test\SuperMarioBros3\SuperMarioBros3\Mario.h(149,28): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  Koopa.cpp
   05-SceneManager.vcxproj -> C:\Users\Admin\Desktop\Test\SuperMarioBros3\Debug\SuperMarioBros3.exe
