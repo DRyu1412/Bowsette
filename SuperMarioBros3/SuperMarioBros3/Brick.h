@@ -18,7 +18,7 @@
 class CBrick : public CGameObject {
 public:
 	int aniId;
-	int item = 1;
+	int numOfItem = 1;
 	CBrick(float x, float y, int aniID, int state) : CGameObject(x, y) { this->aniId = aniID; this->state = state; }
 	void Render();
 	void Update(DWORD dt, vector<LPGAMEOBJECT>* coObjects);

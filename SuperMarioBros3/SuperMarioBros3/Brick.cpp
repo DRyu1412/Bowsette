@@ -24,12 +24,12 @@ void CBrick::SetState(int state)
 
 void CBrick::Update(DWORD dt, vector<LPGAMEOBJECT>* coObjects)
 {
-	if (state == BRICK_STATE_BREAK && item > 0)
+	if (state == BRICK_STATE_BREAK && numOfItem > 0)
 	{
 		CGameObject* object = NULL;
 		{ object = new CMushroom(x, y, BRICK_BBOX_WIDTH, BRICK_BBOX_HEIGHT, MUSHROOM_TYPE_RED, ID_ANI_RED_MUSHROOM); }
 		((LPPLAYSCENE)CGame::GetInstance()->GetCurrentScene())->AddObject(object);
-		item = 0;
+		numOfItem = 0;
 		CCollision::GetInstance()->Process(object, dt, coObjects);
 	}
 	CCollision::GetInstance()->Process(this, dt, coObjects);
